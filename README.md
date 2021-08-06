@@ -1,6 +1,6 @@
 # Markdown Blog Study
 
-Blog com markdown construído em Node.js como estudo.
+Blog com markdown construído em Node.js, utilizando MongoDB para o armazenamento dos posts. Desenvolvido para fins de estudo.
 
 ## Instalação
 
